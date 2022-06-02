@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boolienautocrat
-- 👀 I’m interested in soccer, music and web dvelopment!
-- 🌱 I’m currently learning react.js
+- 👀 I’m interested in football, music and web dvelopment!
+- 🌱 I’m currently learning SASS
 - 💞️ I’m looking to collaborate on intermediate frontend dev
 - 📫 mail me on: josetsaji2006@gmail.com
 
