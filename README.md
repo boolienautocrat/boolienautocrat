@@ -2,7 +2,6 @@
 - 👀 I’m interested in football, music and web dvelopment!
 - 🌱 I’m looking forward to learn more front-end technologies
 - 💞️ I’m looking to collaborate on intermediate frontend dev
-- 📫 mail me on: josetsaji@pm.me
 
 <!---
 boolienautocrat/boolienautocrat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
