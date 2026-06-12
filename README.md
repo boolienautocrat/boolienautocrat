@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boolienautocrat
-- 👀 I’m interested in football, music and web dvelopment!
+- 👀 I’m interested in football, music and software engineering!
 - 🌱 I’m looking forward to learn more front-end technologies
 - 💞️ I’m looking to collaborate on intermediate frontend dev
 
